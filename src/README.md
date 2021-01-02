@@ -1,6 +1,9 @@
 # src
 
-A new Flutter project.
+Steps to run application.
+1. Clone this repo
+2. flutter pub get
+3. flutter run
 
 ## Getting Started
 
